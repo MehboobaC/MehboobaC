@@ -1,5 +1,4 @@
-### Hi 👋
-### I am Mehbooba
+### Hi 👋, I am Mehbooba
 
 - 🔭 I’m interested in Data Analysis, Machine Learning and Deep Learning
 - 🌱 I’m currently learning computer vision and NLP
